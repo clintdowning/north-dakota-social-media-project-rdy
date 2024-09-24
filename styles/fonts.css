@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Oswald Medium Local';
+    src: url('../fonts/oswald/Oswald-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../fonts/oswald/Oswald-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../fonts/oswald/Oswald-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../fonts/oswald/Oswald-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../fonts/oswald/Oswald-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../fonts/oswald/Oswald-Demi-BoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../fonts/oswald/Oswald-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../fonts/oswald/Oswald-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../fonts/oswald/Oswald-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../fonts/oswald/Oswald-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../fonts/oswald/Oswald-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../fonts/oswald/Oswald-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../fonts/oswald/Oswald-Stencil.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
